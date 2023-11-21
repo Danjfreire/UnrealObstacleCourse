@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\game_projects\\unrealobstaclecourse\\unrealobstaclecourse\\intermediate\\build\\win64\\unrealeditor\\inc\\unrealobstaclecourse\\uht\\unrealobstaclecoursegamemode.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\game_projects\\unrealobstaclecourse\\unrealobstaclecourse\\intermediate\\build\\win64\\x64\\unrealobstaclecourseeditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "d:\\game_projects\\unrealobstaclecourse\\unrealobstaclecourse\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\unrealobstaclecourse\\definitions.unrealobstaclecourse.h",
+            "d:\\game_projects\\unrealobstaclecourse\\unrealobstaclecourse\\source\\unrealobstaclecourse\\unrealobstaclecoursegamemode.h",
+            "d:\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "d:\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "d:\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "d:\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "d:\\game_projects\\unrealobstaclecourse\\unrealobstaclecourse\\intermediate\\build\\win64\\unrealeditor\\inc\\unrealobstaclecourse\\uht\\unrealobstaclecoursegamemode.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

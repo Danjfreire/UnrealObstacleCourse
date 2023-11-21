@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "UnrealObstacleCourse",
+			"Path": "..\\Source\\UnrealObstacleCourse.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "UnrealObstacleCourseEditor",
+			"Path": "..\\Source\\UnrealObstacleCourseEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

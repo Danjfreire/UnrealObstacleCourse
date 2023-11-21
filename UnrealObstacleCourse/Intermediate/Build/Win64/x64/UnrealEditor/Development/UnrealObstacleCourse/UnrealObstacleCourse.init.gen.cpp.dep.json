@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\game_projects\\unrealobstaclecourse\\unrealobstaclecourse\\intermediate\\build\\win64\\unrealeditor\\inc\\unrealobstaclecourse\\uht\\unrealobstaclecourse.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\game_projects\\unrealobstaclecourse\\unrealobstaclecourse\\intermediate\\build\\win64\\x64\\unrealobstaclecourseeditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "d:\\game_projects\\unrealobstaclecourse\\unrealobstaclecourse\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\unrealobstaclecourse\\definitions.unrealobstaclecourse.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
